@@ -94,6 +94,13 @@
   top: 50%; /* Centra la imagen verticalmente dentro de la carta */
   left: 50%; /* Centra la imagen horizontalmente dentro de la carta */
   transform: translate(-50%, -50%); /* Ajuste fino para centrar */
+  border-left: 200px solid #ff989e;
+  border-right: 200px solid #ff989e;
+  border-top: 100px solid transparent;
+  border-bottom: 100px solid #ff858a;
+}
+
+    
 }
 
   
