@@ -73,17 +73,6 @@ main {
     transition: all .75s;
 }
 
-/* Ajustamos el tamaño de la imagen dentro de la carta */
-.letter-img {
-    width: 50%; /* Puedes cambiar el tamaño al porcentaje que prefieras */
-    height: auto; /* Mantener las proporciones */
-    object-fit: cover; /* Para asegurarnos de que la imagen se recorte si es necesario */
-    position: absolute;
-    top: 50%; /* Centra la imagen verticalmente dentro de la carta */
-    left: 50%; /* Centra la imagen horizontalmente dentro de la carta */
-    transform: translate(-50%, -50%); /* Ajuste fino para centrar */
-}
-
 .letter {
     border-left: 200px solid #ff989e;
     border-right: 200px solid #ff989e;
