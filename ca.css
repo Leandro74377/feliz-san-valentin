@@ -87,7 +87,7 @@
   
 /* Ajustamos el tamaño de la imagen dentro de la carta */
 .letter-img {
-  width: 50%; /* Puedes cambiar el tamaño al porcentaje que prefieras */
+  width: 20%; /* Puedes cambiar el tamaño al porcentaje que prefieras */
   height: auto; /* Mantener las proporciones */
   object-fit: cover; /* Para asegurarnos de que la imagen se recorte si es necesario */
   position: absolute;
