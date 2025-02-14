@@ -163,11 +163,11 @@ main {
 
 /* Ajustamos el tamaño de la imagen dentro de la carta */
 .letter-img {
-    width: 15%; /* Imagen aún más pequeña */
+    width: 4%; /* Imagen aún más pequeña */
     height: auto; /* Mantener las proporciones */
     object-fit: cover; /* Asegurarnos de que la imagen se recorte si es necesario */
     position: absolute;
-    top: 85%; /* Imagen más abajo */
+    top: 93%; /* Imagen más abajo */
     left: 50%; /* Centra la imagen horizontalmente dentro de la carta */
     transform: translate(-50%, -50%); /* Ajuste fino para centrar la imagen */
 }
