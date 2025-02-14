@@ -163,7 +163,7 @@ main {
 
 /* Ajustamos el tamaño de la imagen dentro de la carta */
 .letter-img {
-    width: 13%; /* Imagen aún más pequeña */
+    width: 20%; /* Imagen aún más pequeña */
     height: auto; /* Mantener las proporciones */
     object-fit: cover; /* Asegurarnos de que la imagen se recorte si es necesario */
     position: absolute;
